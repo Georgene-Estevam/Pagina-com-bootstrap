@@ -1,0 +1,84 @@
+body {
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: #298a08;
+}
+
+.quem-somos {
+    background-color: #8181f7;
+    color: blanchedalmond;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.parceiros {
+    background-color: #ff8000;
+    color: blanchedalmond;
+}
+
+.logo-glss {
+    padding-left: 50px;
+}
+
+.logo-dio {
+    background-color: black;
+}
+
+.logo-udy {
+    background-color: white;
+}
+
+.logo-dv {
+    background-color: white;
+    padding: 35px 35px;
+}
+
+.servicos {
+    background-color: teal;
+    color: blanchedalmond;
+}
+
+.celular {
+    border: 20px;
+    background-color: blanchedalmond;
+}
+
+.tabblet {
+    border: 20px;
+    background-color: blanchedalmond;
+}
+
+.modelo {
+    border: 20px;
+    background-color: blanchedalmond;
+}
+
+.conteudo-celular {
+    font-size: 18px;
+}
+
+.conteudo-tablet {
+    font-size: 18px;
+}
+
+.conteudo-modelo {
+    font-size: 18px;
+}
+
+.bg-footer {
+    background-color: lightslategray;
+    color: black;
+    font-size: 14px;
+    text-align: center;
+}
+
+.contato-gmail {
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+}
